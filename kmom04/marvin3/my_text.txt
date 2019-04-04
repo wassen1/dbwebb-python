@@ -1,0 +1,3 @@
+Hej klockan är just nu: {time} och dagens datum är: {date}.
+Marvin är {mood} för tillfället.
+Marvin har {intnr:,} kr till förfogande på sitt konto och batteristatus är: {floatnr:.3f} %.

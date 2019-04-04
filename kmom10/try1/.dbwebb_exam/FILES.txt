@@ -1,0 +1,22 @@
+.
+total 32
+-rw-rw-r-- 1 fredrik fredrik 1530 okt 30 13:10 analyze_functions.py
+-rw-r--r-- 1 fredrik fredrik 6914 okt 30 11:25 assignments.md
+drwxr-xr-x 2 fredrik fredrik 4096 okt 30 17:01 .dbwebb
+drwxr-xr-x 2 fredrik fredrik 4096 okt 30 17:01 .dbwebb_exam
+-rw-r--r-- 1 fredrik fredrik 3206 okt 30 17:01 exam.py
+drwxrwxr-x 2 fredrik fredrik 4096 okt 30 17:01 __pycache__
+-rw-r--r-- 1 fredrik fredrik 1076 okt 30 11:25 value-of-time.txt
+./.dbwebb_exam
+total 12
+-rw-rw-r-- 1 fredrik fredrik  450 okt 30 17:01 FILES.txt
+-rw-r--r-- 1 fredrik fredrik 1205 okt 30 17:01 RECEIPT.md
+-rw-r--r-- 1 fredrik fredrik   53 okt 30 17:01 RECEIPT.md.sha1
+./.dbwebb
+total 12
+-rwxr-xr-x 1 fredrik fredrik 2358 okt 30 11:25 correct.bash
+-rw-r--r-- 1 fredrik fredrik 4995 okt 30 11:25 test_dbwebb.py
+./__pycache__
+total 8
+-rw-rw-r-- 1 fredrik fredrik 1486 okt 30 13:10 analyze_functions.cpython-36.pyc
+-rw-r--r-- 1 fredrik fredrik 2571 okt 30 17:01 exam.cpython-36.pyc
